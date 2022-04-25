@@ -1,0 +1,13 @@
+{
+  "app_title": "App Title",
+
+  "notes_title" : "{count, plural,=0{No notes} =1{One note} other{{count} notes}}",
+  "@notes_title" : {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3 notes"
+      }
+    }
+  }
+}
